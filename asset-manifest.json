@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeFusion/static/css/main.5d4c47a7.css",
+    "main.js": "/CodeFusion/static/js/main.65921c82.js",
+    "index.html": "/CodeFusion/index.html",
+    "main.5d4c47a7.css.map": "/CodeFusion/static/css/main.5d4c47a7.css.map",
+    "main.65921c82.js.map": "/CodeFusion/static/js/main.65921c82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d4c47a7.css",
+    "static/js/main.65921c82.js"
+  ]
+}
